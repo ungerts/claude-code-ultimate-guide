@@ -95,7 +95,7 @@ keywords: [tag1, tag2]
 | [planner.md](./agents/planner.md) | Strategic planning — read-only, before implementation | Opus |
 | [implementer.md](./agents/implementer.md) | Mechanical execution — bounded scope | Haiku |
 | [architecture-reviewer.md](./agents/architecture-reviewer.md) | Architecture & design review — read-only | Opus |
-| [adr-writer.md](./agents/adr-writer.md) | Architecture Decision Record generator — read-only | Opus |
+| [adr-writer.md](./agents/adr-writer.md) | Architecture Decision Record generator and curator — proposes for review | Any |
 | [integration-reviewer.md](./agents/integration-reviewer.md) | Runtime integration validator — read-only | Sonnet |
 | [plan-challenger.md](./agents/plan-challenger.md) | Adversarial plan review across 5 dimensions — read-only | Sonnet |
 | [planning-coordinator.md](./agents/planning-coordinator.md) | Synthesis agent for dynamic research teams — read-only | Sonnet |
